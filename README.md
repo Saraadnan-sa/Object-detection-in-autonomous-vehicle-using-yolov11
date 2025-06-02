@@ -54,7 +54,8 @@ This Jupyter Notebook facilitates object detection tasks for self-driving cars u
 
 ## Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/9275f1e8-d335-4590-b101-de7ebe09e99a)
+![image](https://github.com/user-attachments/assets/2ed4b403-97e0-4747-ab4d-e561db6e9889)
+
 
 ### Components:
 
